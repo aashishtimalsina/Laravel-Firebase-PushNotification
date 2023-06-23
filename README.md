@@ -1,4 +1,4 @@
-# Firebase Push Notification Laravel Tutorial
+# Firebase Push Notification Laravel
 
 #### Install Packages
 
